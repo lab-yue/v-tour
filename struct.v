@@ -18,5 +18,5 @@ println(rin.name)
 println(sakura.name)
 
 
-story := Story{rin}
+story := Story{sakura}
 println(story.character.age)
